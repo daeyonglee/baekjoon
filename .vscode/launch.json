@@ -6,13 +6,6 @@
     "configurations": [
         {
             "type": "java",
-            "name": "CodeLens (Launch) - 천330",
-            "request": "launch",
-            "mainClass": "천330",
-            "projectName": "baekjoon_3d5f0cee"
-        },
-        {
-            "type": "java",
             "name": "Debug (Launch) - Current File",
             "request": "launch",
             "mainClass": "${file}"
